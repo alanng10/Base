@@ -47,3 +47,5 @@ Base has park kind arch benefit.
 Base has park kind arch marry.
 
 Base has park kind arch land.
+
+Base has major.
